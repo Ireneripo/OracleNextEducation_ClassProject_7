@@ -7,6 +7,8 @@ const otrasCiudades = new Array();
 otrasCiudades.push('Madrid', 'Paris', 'Roma', 'Londres');
 otrasCiudades.push('Berlín');
 
+let posicion = 0;
+
 console.log(otrasCiudades);
 
 console.log(otrasCiudades[1]);
@@ -22,4 +24,5 @@ if (edadComprador >= 18) {
 while (posicion < otrasCiudades.length) {
   // code here
   posicion++;
+  break;
 }
