@@ -26,3 +26,7 @@ while (posicion < otrasCiudades.length) {
   posicion++;
   break;
 }
+
+for (let posicion = 0; posicion < otrasCiudades.length; posicion++) {
+  console.log(posicion);
+}
