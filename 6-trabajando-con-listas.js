@@ -14,3 +14,5 @@ otrasCiudades.push('Madrid', 'Paris', 'Roma', 'Londres');
 otrasCiudades.push('Berlín');
 
 console.log(otrasCiudades);
+
+console.log(otrasCiudades[1]);
